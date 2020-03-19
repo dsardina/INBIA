@@ -36,4 +36,4 @@ To run INBIA after loading datasets from TCPA use:
 ```R
 execute.all(dataset, ds.name)
 ```
-dataset is retrieved from TCPA and loaded by  `load.dataset ` function.
+dataset is retrieved from TCPA and loaded by  `load.dataset` function.
