@@ -1,0 +1,20 @@
+Dataset_ID	TCGA-BRCA-RBN
+Source	TCGA
+Platform	MDA_RPPA_Core
+Sample_Type	patient tumor
+Dataset_Summary_Text	Breast invasive carcinoma (BRCA)
+Included_In_Summary	yes
+Cancer_Type	Breast invasive carcinoma (BRCA)
+Dataset	BRCA
+RPPA_Batch_ID	NA
+Species	Homo sapiens
+Num_Samples	750
+Num_Antibodies	190
+Normalization_Level	4
+Normalization_Method	Replicated Based Normalization (RBN)
+Normalization_Description	Using replicate samples that are common between batches, RBN adjusts the means and standard deviations of all the antibodies in the batches so that the means and standard deviations of the replicates become the same in all the batches. 
+Dataset_Description	TCGA Breast invasive carcinoma (BRCA) Replicated Based Normalization data, which combines the BRCA samples of bach A, B and C.
+Comments	 This dataset should be used for the cross-batch analysis of BRCA samples.
+Reference	
+PMID	NA
+TCPA_Release	"3.0"

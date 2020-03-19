@@ -1,0 +1,20 @@
+Dataset_ID	TCGA-PRAD-L3-S71
+Source	TCGA
+Platform	MDA_RPPA_Core
+Sample_Type	patient tumor
+Dataset_Summary_Text	Prostate adenocarcinoma (PRAD)
+Included_In_Summary	yes
+Cancer_Type	Prostate adenocarcinoma (PRAD)
+Dataset	PRAD
+RPPA_Batch_ID	71
+Species	Homo sapiens
+Num_Samples	164
+Num_Antibodies	189
+Normalization_Level	3
+Normalization_Method	Loading Control
+Normalization_Description	(1) median center the sample rows across proteins by subtracting each sample median; (2) median center the protein columns across samples based on level 2 data; 
+Dataset_Description	TCGA Prostate adenocarcinoma (PRAD).
+Comments	All the TCGA patient samples in this disease were profiled in a single batch.
+Reference	NA
+PMID	NA
+TCPA_Release	"3.0"
