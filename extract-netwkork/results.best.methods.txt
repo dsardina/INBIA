@@ -1,0 +1,17 @@
+CancerType	k=1	k=2	k=3	k=4
+BLCA	clr	clr	clr	clr
+BRCA	glasso	clr	clr	clr
+COAD	clr	mrnet	mrnet	mrnet
+GBM	pls	clr	clr	clr
+HNSC	pls	clr	clr	clr
+KIRC	pls	clr	clr	clr
+LGG	pls	mrnet	mrnet	mrnet
+LUAD	clr	clr	clr	clr
+LUSC	clr	mrnet	clr	clr
+OV	glasso	mrnet	mrnet	mrnet
+PRAD	mrnet	mrnet	mrnet	mrnet
+READ	mrnet	mrnet	mrnet	mrnet
+SKCM	mrnet	mrnet	clr	clr
+STAD	pls	mrnet	mrnet	mrnet
+THCA	pls	mrnet	mrnet	mrnet
+UCEC	pls	mrnet	mrnet	mrnet
